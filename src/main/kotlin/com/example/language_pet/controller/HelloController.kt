@@ -1,4 +1,4 @@
-package com.example.language_pet
+package com.example.language_pet.controller
 
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RestController
